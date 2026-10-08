@@ -21,13 +21,14 @@ ellipse(300,300,300,300);//És la cara sencera. El primer número significa la p
   fill(255,255,255);
   ellipse(250,250,12,12);
   ellipse(350,250,12,12);
-  fill(255,255,255);
+  fill(255,255,55);
   ellipse(365,242,8,8);
   ellipse(235,242,8,8);
   noFill();
-   arc(350,225,80,30,PI,0);//cella esquera
+   arc(350,225,80,30,PI,0);/2/cella esquera
   noFill();//no omplis de color la cella
    arc(250,225,80,30,PI,0);//cella dreta
   strokeWeight(4);
-  line(340,370,410,330);//els dos primers numeros són X i Y
+  line(370,370,410,310);//els dos primers numeros són X i Y
+  line(190,310,230,370);
 }
