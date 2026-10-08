@@ -21,10 +21,10 @@ ellipse(300,300,300,300);//És la cara sencera. El primer número significa la p
   fill(255,255,255);
   ellipse(250,250,12,12);
   ellipse(350,250,12,12);
-  fill(255,255,55);
+  fill(255,255);
   ellipse(365,242,8,8);
   ellipse(235,242,8,8);
-  noFill();
+  noFill();55,
    arc(350,225,80,30,PI,0);/2/cella esquera
   noFill();//no omplis de color la cella
    arc(250,225,80,30,PI,0);//cella dreta
